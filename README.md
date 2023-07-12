@@ -19,8 +19,7 @@ The Casino Back-End System is a Java-based application built with Spring Boot to
 
 To run the Casino Back-End System locally, follow these steps:
 
-1 . Clone the repository: git clone https://github.com/siyamtanda/casino-backend.git
-
+1 . Clone the repository: git clone https://github.com/siyamtanda/Rank-Casino-Game
 
 1 Open the project in your preferred Java IDE.
 
