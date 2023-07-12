@@ -33,7 +33,7 @@ The application will start running on `http://localhost:8080`.
 
 * Database configuration (H2): The application is preconfigured to use an H2 in-memory database. The database schema and tables will be automatically created when the application starts. The database connection settings can be modified in the application.properties or application.yml file.
 
-* Authentication and Authorization (optional): Authentication and authorization mechanisms can be configured in the SecurityConfig.java class. User roles and permissions can be defined to restrict access to specific endpoints.
+* Authentication and Authorization : Authentication and authorization mechanisms can be configured in the SecurityConfig.java class. User roles and permissions can be defined to restrict access to specific endpoints.
 
 ### Testing
 
