@@ -48,6 +48,6 @@ Contributions to the Casino Back-End System are welcome! If you find any issues 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 You can customize this README file based on your specific project requirements, including any additional sections or information you want to include. Provide instructions on how to set up the project, configure dependencies, run tests, and contribute to the project.
